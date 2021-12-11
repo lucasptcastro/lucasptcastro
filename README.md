@@ -1,6 +1,7 @@
 # Bem-vindo(a) ao meu perfil! 👋
 
 - 🔭 Atualmente, estou no 4° período (4/5) da graduação em ADS.
+- 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
 - 🌱 Estudando Python, através de plataformas online!
 - 💬 Disposto a conversar e trocar conhecimento!
 - 📫 Contate-me através do E-mail: lucasptcastro@gmail.com
