@@ -1,13 +1,13 @@
 # Bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Atualmente, estou no 4° período (4/5) da graduação em ADS.
+- 🔭 Atualmente, estou no 4° período (5/5) da graduação em ADS.
 - 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
-- 🌱 Estudando Python, através de plataformas online!
-- 💬 Disposto a conversar e trocar conhecimento!
+- 🌱 Estudando Python, através de plataformas online
+- 💬 Disposto a conversar e trocar conhecimento
 - 📫 Contate-me através do E-mail: lucasptcastro@gmail.com
-- ⚡ Estudante de marketing digital!
+- ⚡ Estudante de marketing digital
 
-<img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=green" alt="lucasptcastro" /> 
+     <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=green" alt="lucasptcastro" /> 
 
 ##
 
@@ -19,6 +19,7 @@
   <img align="center" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
   <img align="center" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
   <img align="center" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img align="center" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
 </div>
 
 ##
