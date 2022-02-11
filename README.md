@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Atualmente, estou no 4° período (5/5) da graduação em ADS.
+- 🔭 Atualmente, estou no 5° período (5/5) da graduação em ADS.
 - 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
 - 🌱 Estudando Python, através de plataformas online
 - 💬 Disposto a conversar e trocar conhecimento
