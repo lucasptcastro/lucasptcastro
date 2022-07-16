@@ -1,6 +1,7 @@
 # Bem-vindo(a) ao meu perfil! 👋
 
-- 🔭 Atualmente, estou no 5° período (5/5) da graduação em ADS.
+- 🔭 Graduado em Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Desenvolvedor Jr. na MontenegroLabs.
 - 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
 - 🌱 Estudando Python, através de plataformas online
 - 💬 Disposto a conversar e trocar conhecimento
@@ -32,6 +33,8 @@ target="_blank"></a>
 <a href="https://steamcommunity.com/profiles/76561198140310572/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-peixoto-2625441a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5584991649669&text=Ol%C3%A1!%20Tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-11111111?style=for-the-badge&logo=whatsapp&logoColor=white"
 target="_blank"></a>
 
 ![Snake animation](https://github.com/lucasptcastro/lucasptcastro/blob/output/github-contribution-grid-snake.svg)
