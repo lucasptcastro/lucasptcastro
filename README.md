@@ -3,10 +3,10 @@
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Desenvolvedor Jr. na MontenegroLabs.
 - 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
-- 🌱 Estudando Python, através de plataformas online
+- 🌱 Estudando NextJS, NestJS e React.
 - 💬 Disposto a conversar e trocar conhecimento
 - 📫 Contate-me através do E-mail: lucasptcastro@gmail.com
-- ⚡ Estudante de marketing digital
+- ⚡ Outras áreas de interesse: empreendedorismo, marketing digital e design.
 
      <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=green" alt="lucasptcastro" /> 
 
