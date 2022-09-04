@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil! 👋
+# Lucas Peixoto | Junior Developer 🌵
 
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas.
 - 👨‍💻 Desenvolvedor Jr. na MontenegroLabs.
