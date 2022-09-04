@@ -12,8 +12,9 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasptcastro&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasptcastro)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasptcastro&theme=Gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasptcastro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img align="center" height="50" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
