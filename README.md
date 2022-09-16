@@ -5,7 +5,7 @@
 - 💼 Estagio o cargo de Gerência de TI pelo SENAC/RN.
 - 🌱 Estudando NextJS, NestJS e React.
 - 💬 Disposto a conversar e trocar conhecimento
-- 📫 Contate-me através do E-mail: lucasptcastro@gmail.com
+- 📫 Contate-me através do e-mail: lucasptcastro@gmail.com
 - ⚡ Outras áreas de interesse: empreendedorismo, marketing digital e design.
 
      <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=green" alt="lucasptcastro" /> 
