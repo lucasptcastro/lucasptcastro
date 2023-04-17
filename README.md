@@ -20,7 +20,7 @@ I'm a beginner in the world of technology, I've been working as a developer for 
 
 I have knowledge in: HTML, CSS, JavaScript, TypeScrpit, React, NextJS, Python, C#, ASP.NET(framework), Bootstrap, TailwindCSS, AntDesign, SQLServer, MySQLm, Git, AzureDevop's, Windows, Linux, Figma. 
 
-My experiences: Internship in Information Technology Management at SenacRN - Duration: 1 year | Junior Developer at Montenegro Contabilidade - Duration: currently.
+My experiences: Internship in Information Technology Management at SenacRN - Duration: 1 year | Junior Developer at Montenegro Contabilidade - Duration: 8 months.
 
 I like to talk about any kind of subject. Let's grab a coffee and talk about crazy ideas. You can contact me at lucasptcastro@gmail.com
 
