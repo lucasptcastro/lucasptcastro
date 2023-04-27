@@ -14,10 +14,6 @@
 <a href="https://discord.com/channels/@me/870860890319233065" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </h4>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=1D79BE" alt="lucasptcastro" /> 
-</div>
-
 ##
 
 I'm a beginner in the world of technology, I've been working as a developer for just over a year. I graduated in Systems Analysis and Development and currently I study through online platforms and acquire knowledge through work.
@@ -31,6 +27,10 @@ I like to talk about any kind of subject. Let's grab a coffee and talk about cra
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=footer"/>
 </a>
+
+<br/>
+<br/>
+<br/>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasptcastro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasptcastro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasptcastro&theme=nord_dark) |
 | :-: | :-: | :-: |
