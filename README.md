@@ -28,6 +28,10 @@ My experiences: Internship in Information Technology Management at SenacRN - Dur
 
 I like to talk about any kind of subject. Let's grab a coffee and talk about crazy ideas. You can contact me at lucasptcastro@gmail.com
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=footer"/>
+</a>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasptcastro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasptcastro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasptcastro&theme=nord_dark) |
 | :-: | :-: | :-: |
 
@@ -35,7 +39,3 @@ I like to talk about any kind of subject. Let's grab a coffee and talk about cra
 | :-: | :-: |
 
 ![Snake animation](https://github.com/lucasptcastro/lucasptcastro/blob/output/github-contribution-grid-snake.svg)
-
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=footer"/>
-</a>
