@@ -1,4 +1,8 @@
-# Hi, I'm Lucas 🧑🏻‍💻🌵
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=51CFDF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Lucas;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 <h4 align="center">
 
@@ -11,7 +15,7 @@
 </h4>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=green" alt="lucasptcastro" /> 
+  <img src="https://komarev.com/ghpvc/?username=lucasptcastro&color=1D79BE" alt="lucasptcastro" /> 
 </div>
 
 ##
@@ -31,3 +35,7 @@ I like to talk about any kind of subject. Let's grab a coffee and talk about cra
 | :-: | :-: |
 
 ![Snake animation](https://github.com/lucasptcastro/lucasptcastro/blob/output/github-contribution-grid-snake.svg)
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=footer"/>
+</a>
