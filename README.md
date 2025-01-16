@@ -1,8 +1,8 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1D79BE&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF0DC&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=51CFDF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Lucas;I'm+a+Mobile+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D66D10&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Lucas;I'm+a+Mobile+Developer;Be+Welcome!+ツ)
 
 ##
 
